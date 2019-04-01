@@ -1,0 +1,20 @@
+{
+  "name": "calendercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash.chunk": "^4.2.0",
+    "lodash.join": "^4.0.1",
+    "lodash.map": "^4.6.0",
+    "moment": "^2.24.0",
+    "moment-range": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZQ",
+  "license": "ISC"
+}
